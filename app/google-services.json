@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "782608191429",
+    "firebase_url": "https://glutensorgulama.firebaseio.com",
+    "project_id": "glutensorgulama",
+    "storage_bucket": "glutensorgulama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782608191429:android:5265d8d637677cea",
+        "android_client_info": {
+          "package_name": "com.fatmakubrayalcin.glutensorgulama1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782608191429-ha63ijiqgqrickt8o9sjrivm0lkn9qlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABv__HazSNsB6nyOtmufwwTrgD49Mij6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
